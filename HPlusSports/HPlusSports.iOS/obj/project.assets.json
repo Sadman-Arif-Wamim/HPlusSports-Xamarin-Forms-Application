@@ -1065,11 +1065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports\\HPlusSports\\HPlusSports.iOS\\HPlusSports.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports-Github\\HPlusSports-Xamarin-Forms-Application\\HPlusSports\\HPlusSports.iOS\\HPlusSports.iOS.csproj",
       "projectName": "HPlusSports.iOS",
-      "projectPath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports\\HPlusSports\\HPlusSports.iOS\\HPlusSports.iOS.csproj",
+      "projectPath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports-Github\\HPlusSports-Xamarin-Forms-Application\\HPlusSports\\HPlusSports.iOS\\HPlusSports.iOS.csproj",
       "packagesPath": "C:\\Users\\u1104419\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports\\HPlusSports\\HPlusSports.iOS\\obj\\",
+      "outputPath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports-Github\\HPlusSports-Xamarin-Forms-Application\\HPlusSports\\HPlusSports.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1090,8 +1090,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports\\HPlusSports\\HPlusSports\\HPlusSports.csproj": {
-              "projectPath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports\\HPlusSports\\HPlusSports\\HPlusSports.csproj"
+            "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports-Github\\HPlusSports-Xamarin-Forms-Application\\HPlusSports\\HPlusSports\\HPlusSports.csproj": {
+              "projectPath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports-Github\\HPlusSports-Xamarin-Forms-Application\\HPlusSports\\HPlusSports\\HPlusSports.csproj"
             }
           }
         }

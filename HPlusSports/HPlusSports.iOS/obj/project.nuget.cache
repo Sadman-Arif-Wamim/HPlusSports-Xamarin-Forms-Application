@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GXsibhjrB/pLut/E/UVX+sMCq+Wy84MLtYgn71AmLgw3uR8r/2ocIv5KtW+fnYxDJxehvekWtxyexXSJluTtDQ==",
+  "dgSpecHash": "Nze/BJqjovRL+RczVkfOsYZKu8fPwEAZq8CCedcBEhvq1gIiQPuwfIZ1nmhOJNcSoTy/9nJ0q+G2I13BmZT2sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports\\HPlusSports\\HPlusSports.iOS\\HPlusSports.iOS.csproj",
+  "projectFilePath": "C:\\Users\\u1104419\\OneDrive - IQVIA\\Documents\\Xamarin Tutorials\\Xamarin Forms Essential Training\\HPlusSports-Github\\HPlusSports-Xamarin-Forms-Application\\HPlusSports\\HPlusSports.iOS\\HPlusSports.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u1104419\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\u1104419\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
