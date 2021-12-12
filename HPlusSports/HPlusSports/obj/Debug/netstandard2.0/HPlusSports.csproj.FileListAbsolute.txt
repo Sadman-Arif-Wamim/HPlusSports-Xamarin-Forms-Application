@@ -1,0 +1,17 @@
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\bin\Debug\netstandard2.0\HPlusSports.deps.json
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\bin\Debug\netstandard2.0\HPlusSports.dll
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\bin\Debug\netstandard2.0\ref\HPlusSports.dll
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\bin\Debug\netstandard2.0\HPlusSports.pdb
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.csproj.AssemblyReference.cache
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.AssemblyInfoInputs.cache
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.AssemblyInfo.cs
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.csproj.CoreCompileInputs.cache
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.dll
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\ref\HPlusSports.dll
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\HPlusSports.pdb
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\ProductDetail.xaml.g.cs
+C:\Users\u1104419\OneDrive - IQVIA\Documents\Xamarin Tutorials\Xamarin Forms Essential Training\HPlusSports\HPlusSports\HPlusSports\obj\Debug\netstandard2.0\OrderForm.xaml.g.cs
